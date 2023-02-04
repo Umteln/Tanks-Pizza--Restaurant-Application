@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc627359.css",
+    "main.js": "/static/js/main.82731267.js",
+    "static/media/pizzaHero.jpg": "/static/media/pizzaHero.624f11fe0be809f50235.jpg",
+    "static/media/vegan.jpg": "/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
+    "static/media/pizza.jpg": "/static/media/pizza.21a1098fa87e28d80f37.jpg",
+    "static/media/expensive.jpg": "/static/media/expensive.6449ceefce083d18dfef.jpg",
+    "static/media/pineapple.jpg": "/static/media/pineapple.a01ab9be389f0e6bd6ec.jpg",
+    "static/media/multiple.jpg": "/static/media/multiple.8974af1bddcfd6657cd2.jpg",
+    "static/media/housewings.jpg": "/static/media/housewings.2784a6243f734f745e82.jpg",
+    "static/media/left.jpg": "/static/media/left.a6ba34651acd1ede76a4.jpg",
+    "static/media/margherita.jpg": "/static/media/margherita.683bc9bb07f9ff0d82df.jpg",
+    "static/media/burger.jpg": "/static/media/burger.c9b78c26856612639714.jpg",
+    "static/media/specialpizza.jpg": "/static/media/specialpizza.425951cb0e484775fd4c.jpg",
+    "static/media/logo.png": "/static/media/logo.a8b0b3e423224c082756.png",
+    "index.html": "/index.html",
+    "main.fc627359.css.map": "/static/css/main.fc627359.css.map",
+    "main.82731267.js.map": "/static/js/main.82731267.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc627359.css",
+    "static/js/main.82731267.js"
+  ]
+}

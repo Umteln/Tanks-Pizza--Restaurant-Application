@@ -21,7 +21,7 @@ const Cart = () => {
 
 	const checkout = async () => {
 		let items = cartProducts.filter((product) => product.quantity !== 0);
-		await fetch('http://localhost:4000/checkout', {
+		await fetch('https://tankspizza.onrender.com', {
 			method: 'POST',
 			headers: {
 				'Content-Type': 'application/json',
